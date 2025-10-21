@@ -1,48 +1,68 @@
-# Zamruth Nizar - AI for Business Portfolio
-
-Welcome to my professional AI portfolio! This repository showcases the skills and projects I have completed as part of my **Diploma in AI for Business**. 
+# Zamruth Nizar – AI for Business Portfolio
 
 ## About Me
-My name is **Zamruth Nizar**. I am new to the field of AI and am just beginning my learning journey. This diploma is my first foray into applying **AI techniques to solve real-world business problems**, including customer segmentation, predictive analytics, and personalization strategies. My goal is to leverage AI to drive data-informed decision-making and innovation in business.
+My name is **Zamruth Nizar**. I am new to the field of AI, and this diploma is my first foray into this exciting area. Through this learning journey, I have explored how AI can transform business processes and support data-driven decision-making.
 
-**Theme:** Dark Modern with hues of red, black, and white.
+**Bio:** I am passionate about leveraging AI for business problem-solving. During this diploma, I have gained hands-on experience with Python, machine learning, AI-powered analytics, and customer behavior modeling.  
 
-## Portfolio Overview
-This repository contains the following sections:
+**Professional Aspirations:** My goal is to continue learning AI for business applications and contribute to projects that bridge technology and strategy. I aspire to become an AI professional capable of designing solutions that create measurable business value.
 
-### 1. Professional Profile
-- Bio and professional aspirations
-- Contact information
-- Links to GitHub and LinkedIn
+---
 
-### 2. Project Showcase
-#### **Task 01 – AI Applications in Retail Customer Segmentation**
-- **Description:** Implemented AI-driven clustering and segmentation to analyze retail customer behavior, purchasing patterns, and preferences.
-- **Key Learnings:** Understanding of data preprocessing, K-means clustering, and actionable business insights from AI.
-- **Artifacts:** [Task01_Report.pdf](./pdfs/Task01_Report.pdf) | Images: `task01_img1.jpg`, `task01_img2.jpg`, `task01_img3.jpg`
+## Project Showcase
 
-#### **Task 02 – Predictive Analytics for Sales and Churn**
-- **Description:** Developed predictive models to forecast sales trends and identify customers at risk of churn using behavioral data.
-- **Key Learnings:** Model building, evaluation metrics, and business decision-making support.
-- **Artifacts:** [Task02_Report.pdf](./pdfs/Task02_Report.pdf) | Images: `task02_img1.jpg`, `task02_img2.jpg`
+### Task 01 – Fundamental AI Concepts and Their Strategic Importance
+**Summary:** Explored the fundamentals of AI, including key concepts, strategic applications in business, and the potential for competitive advantage.  
+**Key Learnings and Outcomes:** Learned the strategic relevance of AI, the ethical considerations, and the role of AI in decision-making.  
+**Artifacts:**  
+- PDF report: [task01_report.pdf](./pdfs/task01_report.pdf)  
+- Images:  
+  - `images/task01_1.png`  
+  - `images/task01_2.png`  
+  - `images/task01_3.png`
 
-#### **Task 03 – AI-Powered Personalization for Streaming Services**
-- **Description:** Applied collaborative filtering and recommendation algorithms to enhance user experience and content personalization.
-- **Key Learnings:** Recommendation systems, personalization strategies, and improving customer engagement.
-- **Artifacts:** [Task03_Report.pdf](./pdfs/Task03_Report.pdf) | Images: `task03_img1.jpg`, `task03_img2.jpg`, `task03_img3.jpg`
+### Task 02 – Application of AI Techniques and Tools in Customer Segmentation for a Retailer
+**Summary:** Applied K-Means clustering and other AI techniques to segment retail customers for targeted marketing campaigns.  
+**Key Learnings and Outcomes:** Developed insights into clustering metrics, business interpretations of segments, and validation via A/B testing.  
+**Artifacts:**  
+- PDF report: [task02_report.pdf](./pdfs/task02_report.pdf)  
+- Images:  
+  - `images/task02_1.png`  
+  - `images/task02_2.png`
 
-#### **Task 04 – AI Model Deployment and Automation**
-- **Description:** Focused on deploying AI models to cloud platforms and automating repetitive business tasks using AI tools.
-- **Key Learnings:** Model deployment, RPA integration, and real-time AI applications.
-- **Artifacts:** [Task04_Report.pdf](./pdfs/Task04_Report.pdf) | Images: `task04_img1.jpg`, `task04_img2.jpg`, `task04_img3.jpg`, `task04_img4.jpg`
+### Task 03 – AI-Driven Business Strategy and Netflix Case Study Analysis
+**Summary:** Analyzed how Netflix leverages AI for personalization, predictive analytics, and content strategy to enhance user engagement.  
+**Key Learnings and Outcomes:** Gained expertise in recommendation systems, customer retention strategies, and applying AI to real-world business cases.  
+**Artifacts:**  
+- PDF report: [task03_report.pdf](./pdfs/task03_report.pdf)  
+- Images:  
+  - `images/task03_1.png`  
+  - `images/task03_2.png`  
+  - `images/task03_3.png`
 
-### 3. Skills
-- Programming: Python, SQL  
-- AI/ML Tools: TensorFlow, scikit-learn, pandas, NumPy  
-- Data Visualization: Matplotlib, Seaborn, Power BI  
-- Cloud & Deployment: AWS AI Services, model deployment concepts  
-- Methodologies: Data preprocessing, supervised/unsupervised learning, predictive modeling  
-- Ethics: Ethical AI, responsible AI, GDPR/CCPA compliance  
+### Task 04 – AI Solution Deployment and Professional Portfolio
+**Summary:** Developed a complete AI deployment strategy and created this professional portfolio to showcase AI skills and project outputs.  
+**Key Learnings and Outcomes:** Learned about AI solution deployment, online portfolio creation, and professional presentation of AI projects.  
+**Artifacts:**  
+- PDF report: [task04_report.pdf](./pdfs/task04_report.pdf)  
+- Images:  
+  - `images/task04_1.png`  
+
+---
+
+## Skills
+- **Programming & AI Tools:** Python, TensorFlow, scikit-learn, Pandas, NumPy  
+- **Data Analysis & Visualization:** Matplotlib, Seaborn, Power BI  
+- **AI Techniques:** Customer Segmentation, Predictive Analytics, Recommendation Systems, Model Deployment Concepts  
+- **Cloud & Deployment:** Basic understanding of Cloud AI services  
+- **Ethical AI Awareness:** Data privacy, fairness, and responsible AI practices
+
+---
+
+## Contact
+- **Email:** [zamruthnizar@gmail.com](mailto:zamruthnizar@gmail.com)  
+- **LinkedIn:** [LinkedIn Profile](#)  
+- **GitHub:** [github.com/zamruthnizar-ui](https://github.com/zamruthnizar-ui)
 
 ### 4. References
 Aagaard, A. and Tucci, C., 2024. AI-driven business model innovation: pioneering new frontiers in value creation. In *Business Model Innovation: Game Changers and Contemporary Issues* (pp. 295-328). Cham: Springer International Publishing.  
